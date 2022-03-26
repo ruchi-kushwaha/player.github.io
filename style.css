@@ -1,0 +1,17 @@
+video {
+    width: 100%;
+    border-radius: 1rem;
+}
+
+.c-video {
+    width: 100%;
+    max-width: 800px;
+}
+
+.container {
+    display: flex;
+    background-image: url("image.svg");
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
